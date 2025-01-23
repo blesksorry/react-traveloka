@@ -1,0 +1,33 @@
+.footer {
+    padding-top: calc(var(--index) * 2);
+    padding-bottom: calc(var(--index) * 2);
+    background-color: var(--dark-color);
+    font-size: calc(var(--index) * .7);
+    letter-spacing: 0.05rem;
+    color: var(--light-color);
+
+    &__grid {
+        display: grid;
+        grid-template-columns: repeat(5, 2fr);
+        gap: calc(var(--index) * 2);
+    }
+    &__logo {
+        display: flex;
+        align-items: center;
+        font-size: calc(var(--index) * 1);  
+        margin-left: calc(var(--index) * 3);
+    }
+    &__nav-list {
+        display: grid;
+        gap: calc(var(--index) * 1);
+    }
+    &__address {
+        display: grid;
+        gap: calc(var(--index) * 1);
+    }
+    &__socials {
+        display: flex;
+        align-items: center;
+        column-gap: calc(var(--index) * 1.5);
+    }
+}
