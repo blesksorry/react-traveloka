@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-traveloka/static/css/main.b1fe9a7f.css",
-    "main.js": "/react-traveloka/static/js/main.151212d4.js",
+    "main.js": "/react-traveloka/static/js/main.e4fe0ec0.js",
     "static/js/488.a4c17a7c.chunk.js": "/react-traveloka/static/js/488.a4c17a7c.chunk.js",
     "static/media/layer-3.png": "/react-traveloka/static/media/layer-3.df0d9ca18937e07f91a5.png",
     "static/media/layer-2.png": "/react-traveloka/static/media/layer-2.4e89d11a7015bd1a4216.png",
@@ -14,11 +14,11 @@
     "index.html": "/react-traveloka/index.html",
     "static/media/facebook.svg": "/react-traveloka/static/media/facebook.9ef0fbca6204ea44717782df568b46f0.svg",
     "main.b1fe9a7f.css.map": "/react-traveloka/static/css/main.b1fe9a7f.css.map",
-    "main.151212d4.js.map": "/react-traveloka/static/js/main.151212d4.js.map",
+    "main.e4fe0ec0.js.map": "/react-traveloka/static/js/main.e4fe0ec0.js.map",
     "488.a4c17a7c.chunk.js.map": "/react-traveloka/static/js/488.a4c17a7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1fe9a7f.css",
-    "static/js/main.151212d4.js"
+    "static/js/main.e4fe0ec0.js"
   ]
 }
